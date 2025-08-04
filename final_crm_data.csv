@@ -1,0 +1,201 @@
+customer_id,feedback_text,age,gender,location,product,subscription_type,purchase_count,service_calls,device_count,churn,sentiment_score,sentiment_label,behavior_cluster
+CUST0001,The customer support was helpful and responsive.,22,Other,Hyderabad,Smartwatch,Quarterly,20,1,4,0,0.7906,positive,2
+CUST0002,Lost my data after update – disappointed!,43,Female,Mumbai,Router,Quarterly,8,10,2,0,-0.69,negative,1
+CUST0003,Lost my data after update – disappointed!,52,Male,Mumbai,Router,Quarterly,22,5,2,1,-0.69,negative,1
+CUST0004,"Terrible customer service, I want a refund.",55,Female,Pune,TV,Quarterly,34,13,2,0,-0.4215,negative,1
+CUST0005,Lost my data after update – disappointed!,37,Other,Chennai,Laptop,Quarterly,49,7,5,0,-0.69,negative,1
+CUST0006,Not happy with the service recently.,42,Other,Chennai,Mobile,Quarterly,41,1,1,1,-0.4585,negative,1
+CUST0007,The interface is clean and modern.,20,Male,Delhi,Mobile,Monthly,18,1,3,0,0.4019,positive,2
+CUST0008,Too many ads and popups.,23,Other,Mumbai,Internet,Annual,2,7,5,1,0.0,neutral,2
+CUST0009,Lost my data after update – disappointed!,57,Female,Hyderabad,TV,Quarterly,40,1,2,1,-0.69,negative,1
+CUST0010,I faced issues with login and payment.,22,Female,Mumbai,Mobile,Quarterly,40,8,2,1,0.0,neutral,1
+CUST0011,Super smooth user experience.,54,Male,Mumbai,Laptop,Monthly,48,12,5,1,0.5994,positive,0
+CUST0012,I love the new update!,35,Female,Pune,Mobile,Monthly,17,0,5,1,0.6696,positive,2
+CUST0013,Love the loyalty rewards feature.,53,Male,Bangalore,Tablet,Annual,35,5,3,1,0.8957,positive,0
+CUST0014,Highly reliable and easy to use.,40,Female,Chennai,Mobile,Quarterly,27,13,4,0,0.4877,positive,0
+CUST0015,The customer support was helpful and responsive.,29,Other,Pune,Laptop,Quarterly,29,9,3,1,0.7906,positive,0
+CUST0016,The subscription is too expensive.,21,Other,Bangalore,Tablet,Annual,24,8,4,0,0.0,neutral,2
+CUST0017,Support team didn’t respond at all.,60,Male,Bangalore,Internet,Quarterly,21,6,5,1,0.4019,positive,2
+CUST0018,Love the loyalty rewards feature.,23,Male,Mumbai,Laptop,Annual,44,14,3,1,0.8957,positive,0
+CUST0019,Fast delivery and great packaging.,23,Other,Chennai,Router,Quarterly,17,13,3,0,0.6249,positive,0
+CUST0020,Not happy with the service recently.,35,Male,Mumbai,Laptop,Monthly,15,6,2,1,-0.4585,negative,1
+CUST0021,The customer support was helpful and responsive.,22,Female,Delhi,Internet,Annual,42,12,1,1,0.7906,positive,0
+CUST0022,I had a bad experience with support.,32,Other,Pune,Laptop,Monthly,21,13,5,0,-0.2023,negative,2
+CUST0023,Super smooth user experience.,36,Female,Chennai,Router,Quarterly,39,0,1,1,0.5994,positive,1
+CUST0024,The subscription is too expensive.,39,Male,Mumbai,Laptop,Annual,22,3,3,0,0.0,neutral,2
+CUST0025,Lost my data after update – disappointed!,24,Other,Pune,Laptop,Monthly,40,4,5,1,-0.69,negative,1
+CUST0026,I love the new update!,31,Other,Bangalore,Laptop,Quarterly,44,14,5,0,0.6696,positive,0
+CUST0027,Too many ads and popups.,44,Female,Mumbai,Internet,Annual,29,12,3,0,0.0,neutral,0
+CUST0028,Super smooth user experience.,47,Female,Pune,Router,Monthly,12,10,4,0,0.5994,positive,2
+CUST0029,Love the loyalty rewards feature.,55,Female,Pune,Mobile,Monthly,7,11,1,0,0.8957,positive,0
+CUST0030,Too many ads and popups.,28,Male,Pune,Mobile,Quarterly,6,0,5,0,0.0,neutral,2
+CUST0031,Too many ads and popups.,47,Male,Mumbai,TV,Quarterly,48,9,4,1,0.0,neutral,1
+CUST0032,I had a bad experience with support.,35,Male,Hyderabad,Laptop,Monthly,40,0,4,0,-0.2023,negative,1
+CUST0033,The app is buggy and slow.,20,Male,Mumbai,Internet,Monthly,15,2,1,0,0.0,neutral,1
+CUST0034,Very satisfied with my purchase.,55,Other,Chennai,TV,Annual,49,1,4,0,0.4754,positive,1
+CUST0035,Product quality is excellent.,53,Male,Delhi,TV,Monthly,26,7,5,1,0.5719,positive,2
+CUST0036,Highly reliable and easy to use.,52,Male,Delhi,Router,Monthly,26,4,4,0,0.4877,positive,2
+CUST0037,I faced issues with login and payment.,50,Other,Pune,Internet,Monthly,25,11,5,1,0.0,neutral,2
+CUST0038,I love the new update!,32,Male,Pune,Laptop,Annual,24,3,5,1,0.6696,positive,2
+CUST0039,"Terrible customer service, I want a refund.",43,Female,Delhi,Tablet,Annual,48,13,5,1,-0.4215,negative,1
+CUST0040,I faced issues with login and payment.,43,Female,Chennai,Internet,Annual,38,6,3,1,0.0,neutral,1
+CUST0041,The subscription is too expensive.,19,Female,Bangalore,Tablet,Annual,36,1,4,0,0.0,neutral,1
+CUST0042,I faced issues with login and payment.,60,Female,Mumbai,Internet,Quarterly,42,7,2,1,0.0,neutral,1
+CUST0043,Super smooth user experience.,46,Other,Chennai,Internet,Quarterly,33,6,2,0,0.5994,positive,0
+CUST0044,I love the new update!,51,Male,Chennai,Tablet,Quarterly,44,11,2,0,0.6696,positive,0
+CUST0045,My issue was never resolved.,51,Female,Pune,Mobile,Monthly,39,6,4,0,-0.1326,neutral,1
+CUST0046,The subscription is too expensive.,37,Female,Bangalore,Mobile,Quarterly,13,10,1,0,0.0,neutral,0
+CUST0047,Highly reliable and easy to use.,50,Other,Bangalore,Smartwatch,Quarterly,41,4,4,1,0.4877,positive,2
+CUST0048,Super smooth user experience.,44,Other,Hyderabad,Tablet,Annual,1,0,1,0,0.5994,positive,2
+CUST0049,I faced issues with login and payment.,42,Other,Pune,TV,Monthly,8,11,4,0,0.0,neutral,2
+CUST0050,Fast delivery and great packaging.,38,Male,Bangalore,Router,Monthly,22,12,5,0,0.6249,positive,0
+CUST0051,Product quality is excellent.,60,Male,Bangalore,Internet,Monthly,47,0,4,1,0.5719,positive,1
+CUST0052,The subscription is too expensive.,30,Other,Chennai,Laptop,Monthly,28,5,4,0,0.0,neutral,2
+CUST0053,The subscription is too expensive.,32,Other,Bangalore,TV,Annual,7,10,1,1,0.0,neutral,0
+CUST0054,Too many ads and popups.,64,Male,Chennai,Tablet,Quarterly,1,7,4,0,0.0,neutral,2
+CUST0055,"Terrible customer service, I want a refund.",22,Other,Mumbai,TV,Monthly,5,8,5,0,-0.4215,negative,2
+CUST0056,Product quality is excellent.,63,Other,Mumbai,TV,Annual,14,7,5,1,0.5719,positive,2
+CUST0057,The subscription is too expensive.,29,Other,Pune,Router,Monthly,13,7,4,1,0.0,neutral,2
+CUST0058,I love the new update!,40,Male,Delhi,Laptop,Quarterly,7,6,1,0,0.6696,positive,0
+CUST0059,The customer support was helpful and responsive.,53,Other,Hyderabad,Router,Monthly,20,2,2,1,0.7906,positive,2
+CUST0060,Lost my data after update – disappointed!,49,Other,Pune,Laptop,Annual,3,1,2,0,-0.69,negative,1
+CUST0061,Will definitely recommend to others.,38,Female,Pune,Mobile,Quarterly,23,6,3,0,0.6369,positive,0
+CUST0062,Product quality is excellent.,57,Female,Chennai,Internet,Annual,17,0,5,0,0.5719,positive,2
+CUST0063,The app is buggy and slow.,36,Other,Hyderabad,Laptop,Annual,21,0,2,0,0.0,neutral,1
+CUST0064,The app is buggy and slow.,25,Other,Mumbai,Mobile,Annual,40,12,4,0,0.0,neutral,0
+CUST0065,The interface is clean and modern.,60,Female,Delhi,Mobile,Annual,13,13,4,0,0.4019,positive,0
+CUST0066,Very satisfied with my purchase.,55,Male,Pune,Tablet,Monthly,6,5,5,1,0.4754,positive,2
+CUST0067,I faced issues with login and payment.,24,Female,Hyderabad,Router,Quarterly,20,7,5,1,0.0,neutral,2
+CUST0068,Highly reliable and easy to use.,30,Other,Hyderabad,Laptop,Monthly,31,3,2,0,0.4877,positive,1
+CUST0069,My issue was never resolved.,43,Female,Pune,Router,Quarterly,18,8,5,1,-0.1326,neutral,2
+CUST0070,The interface is clean and modern.,44,Female,Hyderabad,Smartwatch,Quarterly,49,4,2,0,0.4019,positive,1
+CUST0071,Product quality is excellent.,44,Male,Mumbai,TV,Monthly,41,10,2,1,0.5719,positive,0
+CUST0072,Will definitely recommend to others.,54,Female,Mumbai,Smartwatch,Quarterly,30,12,3,1,0.6369,positive,0
+CUST0073,Very satisfied with my purchase.,24,Other,Delhi,Laptop,Quarterly,5,1,4,0,0.4754,positive,2
+CUST0074,Not happy with the service recently.,52,Female,Hyderabad,Router,Quarterly,9,6,4,1,-0.4585,negative,2
+CUST0075,Fast delivery and great packaging.,23,Other,Mumbai,Internet,Monthly,11,12,5,0,0.6249,positive,2
+CUST0076,Highly reliable and easy to use.,55,Female,Bangalore,Internet,Annual,12,13,1,1,0.4877,positive,0
+CUST0077,Super smooth user experience.,41,Female,Pune,Smartwatch,Annual,5,2,2,1,0.5994,positive,2
+CUST0078,Very satisfied with my purchase.,41,Female,Mumbai,TV,Quarterly,26,2,3,0,0.4754,positive,2
+CUST0079,I faced issues with login and payment.,55,Other,Delhi,TV,Monthly,19,3,2,1,0.0,neutral,1
+CUST0080,Support team didn’t respond at all.,58,Male,Delhi,Mobile,Annual,16,12,3,0,0.4019,positive,0
+CUST0081,The app is buggy and slow.,55,Female,Bangalore,Mobile,Quarterly,42,9,3,1,0.0,neutral,1
+CUST0082,Support team didn’t respond at all.,51,Other,Pune,Router,Annual,6,7,5,0,0.4019,positive,2
+CUST0083,Not happy with the service recently.,54,Female,Pune,Router,Quarterly,47,14,3,1,-0.4585,negative,1
+CUST0084,Too many ads and popups.,42,Other,Delhi,Mobile,Monthly,41,8,2,0,0.0,neutral,1
+CUST0085,Support team didn’t respond at all.,56,Male,Chennai,TV,Quarterly,14,5,3,0,0.4019,positive,2
+CUST0086,I faced issues with login and payment.,20,Other,Chennai,Router,Quarterly,14,9,5,1,0.0,neutral,2
+CUST0087,My issue was never resolved.,63,Male,Delhi,Laptop,Monthly,45,6,2,1,-0.1326,neutral,1
+CUST0088,Support team didn’t respond at all.,36,Female,Hyderabad,Router,Quarterly,20,8,5,1,0.4019,positive,2
+CUST0089,Will definitely recommend to others.,26,Other,Delhi,Router,Annual,33,5,4,0,0.6369,positive,2
+CUST0090,Will definitely recommend to others.,58,Male,Mumbai,Internet,Quarterly,45,5,5,1,0.6369,positive,2
+CUST0091,"Terrible customer service, I want a refund.",40,Other,Hyderabad,Laptop,Annual,20,11,1,1,-0.4215,negative,1
+CUST0092,I faced issues with login and payment.,61,Other,Hyderabad,Router,Annual,13,3,3,1,0.0,neutral,2
+CUST0093,The interface is clean and modern.,19,Female,Bangalore,Laptop,Quarterly,45,1,1,1,0.4019,positive,1
+CUST0094,Highly reliable and easy to use.,25,Female,Mumbai,Smartwatch,Monthly,40,9,5,0,0.4877,positive,0
+CUST0095,Lost my data after update – disappointed!,32,Other,Mumbai,Internet,Quarterly,2,13,1,1,-0.69,negative,1
+CUST0096,Fast delivery and great packaging.,39,Other,Delhi,Mobile,Annual,9,13,4,0,0.6249,positive,0
+CUST0097,Lost my data after update – disappointed!,52,Other,Hyderabad,Laptop,Monthly,41,3,2,1,-0.69,negative,1
+CUST0098,I love the new update!,45,Female,Bangalore,Internet,Annual,13,7,5,0,0.6696,positive,2
+CUST0099,Too many ads and popups.,47,Male,Mumbai,TV,Monthly,44,11,2,1,0.0,neutral,1
+CUST0100,Product quality is excellent.,59,Other,Mumbai,Laptop,Monthly,41,8,1,0,0.5719,positive,0
+CUST0101,Product quality is excellent.,44,Male,Chennai,Router,Monthly,24,9,3,0,0.5719,positive,0
+CUST0102,Support team didn’t respond at all.,54,Other,Pune,Router,Monthly,38,1,2,1,0.4019,positive,1
+CUST0103,Fast delivery and great packaging.,42,Female,Chennai,TV,Annual,29,9,3,1,0.6249,positive,0
+CUST0104,The app is buggy and slow.,23,Female,Bangalore,Mobile,Monthly,25,12,1,0,0.0,neutral,0
+CUST0105,Product quality is excellent.,30,Other,Pune,Laptop,Monthly,20,0,5,0,0.5719,positive,2
+CUST0106,The subscription is too expensive.,62,Other,Delhi,Laptop,Quarterly,21,11,1,1,0.0,neutral,0
+CUST0107,Not happy with the service recently.,24,Female,Hyderabad,Router,Quarterly,18,0,5,1,-0.4585,negative,2
+CUST0108,The subscription is too expensive.,41,Male,Pune,TV,Quarterly,22,7,1,0,0.0,neutral,1
+CUST0109,I faced issues with login and payment.,51,Female,Bangalore,Internet,Annual,25,4,4,1,0.0,neutral,2
+CUST0110,Support team didn’t respond at all.,57,Other,Mumbai,Mobile,Annual,5,2,3,1,0.4019,positive,2
+CUST0111,The customer support was helpful and responsive.,32,Other,Delhi,Mobile,Monthly,2,2,4,0,0.7906,positive,2
+CUST0112,The app is buggy and slow.,23,Male,Pune,Tablet,Annual,30,9,5,0,0.0,neutral,2
+CUST0113,Fast delivery and great packaging.,54,Other,Delhi,Internet,Monthly,28,13,3,1,0.6249,positive,0
+CUST0114,The customer support was helpful and responsive.,57,Male,Bangalore,TV,Annual,46,14,4,0,0.7906,positive,0
+CUST0115,I faced issues with login and payment.,32,Male,Hyderabad,TV,Quarterly,43,13,3,0,0.0,neutral,0
+CUST0116,Fast delivery and great packaging.,63,Male,Chennai,Mobile,Quarterly,38,11,2,1,0.6249,positive,0
+CUST0117,Super smooth user experience.,55,Female,Pune,TV,Quarterly,23,14,2,0,0.5994,positive,0
+CUST0118,The app is buggy and slow.,58,Other,Mumbai,Router,Monthly,23,11,2,0,0.0,neutral,0
+CUST0119,Too many ads and popups.,51,Male,Hyderabad,Laptop,Quarterly,27,1,2,1,0.0,neutral,1
+CUST0120,Will definitely recommend to others.,26,Female,Pune,Internet,Quarterly,24,5,2,0,0.6369,positive,0
+CUST0121,I love the new update!,20,Other,Delhi,Tablet,Annual,45,12,1,1,0.6696,positive,0
+CUST0122,My issue was never resolved.,56,Other,Hyderabad,Mobile,Quarterly,20,0,5,1,-0.1326,neutral,2
+CUST0123,Fast delivery and great packaging.,27,Female,Chennai,TV,Monthly,16,0,2,1,0.6249,positive,2
+CUST0124,Too many ads and popups.,18,Male,Bangalore,Tablet,Quarterly,46,12,2,1,0.0,neutral,1
+CUST0125,The subscription is too expensive.,23,Other,Mumbai,Smartwatch,Monthly,14,5,3,1,0.0,neutral,2
+CUST0126,I love the new update!,51,Male,Chennai,TV,Annual,8,7,1,0,0.6696,positive,0
+CUST0127,Very satisfied with my purchase.,36,Other,Delhi,Smartwatch,Annual,11,13,3,1,0.4754,positive,0
+CUST0128,The interface is clean and modern.,19,Other,Chennai,Tablet,Quarterly,18,9,4,0,0.4019,positive,2
+CUST0129,"Terrible customer service, I want a refund.",47,Other,Bangalore,Tablet,Annual,20,3,5,1,-0.4215,negative,2
+CUST0130,"Terrible customer service, I want a refund.",58,Female,Bangalore,Router,Monthly,11,8,3,0,-0.4215,negative,2
+CUST0131,The customer support was helpful and responsive.,59,Female,Bangalore,Smartwatch,Quarterly,45,0,5,0,0.7906,positive,2
+CUST0132,Fast delivery and great packaging.,52,Male,Hyderabad,Laptop,Quarterly,18,9,4,0,0.6249,positive,2
+CUST0133,I had a bad experience with support.,53,Female,Pune,Internet,Annual,5,3,3,0,-0.2023,negative,2
+CUST0134,Lost my data after update – disappointed!,32,Female,Hyderabad,Internet,Annual,17,5,1,1,-0.69,negative,1
+CUST0135,My issue was never resolved.,37,Male,Mumbai,Tablet,Quarterly,15,1,1,1,-0.1326,neutral,1
+CUST0136,I had a bad experience with support.,19,Male,Chennai,Smartwatch,Monthly,13,8,1,1,-0.2023,negative,1
+CUST0137,"Terrible customer service, I want a refund.",33,Female,Mumbai,Internet,Annual,14,14,5,1,-0.4215,negative,2
+CUST0138,The app is buggy and slow.,24,Female,Delhi,Laptop,Annual,14,14,2,0,0.0,neutral,0
+CUST0139,My issue was never resolved.,56,Female,Delhi,Mobile,Quarterly,47,11,2,0,-0.1326,neutral,1
+CUST0140,Fast delivery and great packaging.,63,Other,Pune,Internet,Annual,27,13,3,0,0.6249,positive,0
+CUST0141,Too many ads and popups.,47,Male,Pune,Smartwatch,Quarterly,37,4,2,1,0.0,neutral,1
+CUST0142,My issue was never resolved.,61,Female,Hyderabad,Internet,Quarterly,22,14,1,1,-0.1326,neutral,0
+CUST0143,My issue was never resolved.,18,Other,Mumbai,TV,Annual,16,5,5,0,-0.1326,neutral,2
+CUST0144,Fast delivery and great packaging.,56,Female,Pune,Smartwatch,Quarterly,5,0,4,0,0.6249,positive,2
+CUST0145,Support team didn’t respond at all.,39,Female,Mumbai,TV,Annual,41,0,2,0,0.4019,positive,1
+CUST0146,Love the loyalty rewards feature.,32,Male,Hyderabad,Smartwatch,Monthly,15,0,2,1,0.8957,positive,2
+CUST0147,Super smooth user experience.,40,Female,Bangalore,Laptop,Annual,46,10,2,1,0.5994,positive,0
+CUST0148,The interface is clean and modern.,48,Other,Chennai,TV,Quarterly,12,4,4,0,0.4019,positive,2
+CUST0149,I faced issues with login and payment.,37,Female,Chennai,Internet,Quarterly,29,7,5,0,0.0,neutral,2
+CUST0150,The customer support was helpful and responsive.,40,Female,Bangalore,TV,Annual,18,14,2,1,0.7906,positive,0
+CUST0151,My issue was never resolved.,58,Other,Chennai,Mobile,Quarterly,22,13,3,0,-0.1326,neutral,0
+CUST0152,The customer support was helpful and responsive.,22,Other,Mumbai,Internet,Annual,48,14,3,0,0.7906,positive,0
+CUST0153,Not happy with the service recently.,62,Other,Mumbai,Router,Annual,44,4,4,0,-0.4585,negative,1
+CUST0154,"Terrible customer service, I want a refund.",27,Male,Delhi,Mobile,Annual,18,13,1,0,-0.4215,negative,1
+CUST0155,My issue was never resolved.,51,Female,Delhi,Mobile,Annual,11,4,3,1,-0.1326,neutral,2
+CUST0156,Will definitely recommend to others.,24,Female,Mumbai,Laptop,Annual,3,10,2,1,0.6369,positive,0
+CUST0157,Fast delivery and great packaging.,20,Male,Bangalore,Internet,Annual,45,10,5,0,0.6249,positive,0
+CUST0158,The interface is clean and modern.,58,Female,Mumbai,Tablet,Monthly,38,9,3,1,0.4019,positive,0
+CUST0159,"Terrible customer service, I want a refund.",23,Female,Chennai,Tablet,Quarterly,17,2,1,0,-0.4215,negative,1
+CUST0160,The app is buggy and slow.,44,Male,Mumbai,Smartwatch,Annual,34,5,4,1,0.0,neutral,1
+CUST0161,I faced issues with login and payment.,48,Other,Delhi,Smartwatch,Quarterly,15,12,4,1,0.0,neutral,2
+CUST0162,The subscription is too expensive.,40,Male,Chennai,TV,Quarterly,32,8,5,0,0.0,neutral,2
+CUST0163,Too many ads and popups.,37,Female,Bangalore,TV,Monthly,26,9,1,0,0.0,neutral,1
+CUST0164,I faced issues with login and payment.,20,Male,Bangalore,Laptop,Quarterly,41,2,4,1,0.0,neutral,1
+CUST0165,Lost my data after update – disappointed!,43,Other,Chennai,TV,Monthly,30,0,4,1,-0.69,negative,1
+CUST0166,I faced issues with login and payment.,28,Female,Mumbai,Laptop,Monthly,17,4,4,0,0.0,neutral,2
+CUST0167,The customer support was helpful and responsive.,31,Female,Pune,Router,Quarterly,12,12,1,1,0.7906,positive,0
+CUST0168,Product quality is excellent.,60,Other,Pune,Router,Annual,43,5,3,1,0.5719,positive,0
+CUST0169,Too many ads and popups.,42,Male,Hyderabad,Mobile,Quarterly,16,12,5,1,0.0,neutral,2
+CUST0170,Highly reliable and easy to use.,35,Male,Pune,Smartwatch,Quarterly,30,10,5,0,0.4877,positive,2
+CUST0171,Highly reliable and easy to use.,25,Male,Pune,Laptop,Monthly,21,14,5,1,0.4877,positive,0
+CUST0172,The app is buggy and slow.,27,Female,Chennai,Mobile,Monthly,5,5,3,0,0.0,neutral,2
+CUST0173,I faced issues with login and payment.,31,Female,Pune,Smartwatch,Quarterly,22,7,5,0,0.0,neutral,2
+CUST0174,Fast delivery and great packaging.,31,Female,Chennai,Tablet,Monthly,6,10,4,0,0.6249,positive,2
+CUST0175,Love the loyalty rewards feature.,32,Other,Chennai,Internet,Quarterly,21,11,1,1,0.8957,positive,0
+CUST0176,Lost my data after update – disappointed!,49,Other,Delhi,Tablet,Annual,43,13,4,1,-0.69,negative,1
+CUST0177,I faced issues with login and payment.,56,Male,Mumbai,Router,Quarterly,15,12,2,0,0.0,neutral,0
+CUST0178,I faced issues with login and payment.,46,Female,Chennai,Mobile,Annual,13,14,2,1,0.0,neutral,0
+CUST0179,Will definitely recommend to others.,30,Other,Hyderabad,Router,Annual,38,11,1,0,0.6369,positive,0
+CUST0180,I had a bad experience with support.,63,Female,Bangalore,TV,Quarterly,44,12,4,1,-0.2023,negative,1
+CUST0181,Too many ads and popups.,34,Female,Hyderabad,Router,Annual,5,1,3,1,0.0,neutral,2
+CUST0182,Highly reliable and easy to use.,30,Male,Delhi,Mobile,Monthly,40,14,1,1,0.4877,positive,0
+CUST0183,Lost my data after update – disappointed!,54,Female,Bangalore,Laptop,Annual,33,14,2,1,-0.69,negative,1
+CUST0184,Support team didn’t respond at all.,51,Male,Bangalore,Smartwatch,Annual,38,6,1,0,0.4019,positive,1
+CUST0185,Not happy with the service recently.,34,Other,Hyderabad,Tablet,Annual,30,6,3,1,-0.4585,negative,1
+CUST0186,"Terrible customer service, I want a refund.",27,Other,Mumbai,TV,Quarterly,43,6,3,0,-0.4215,negative,1
+CUST0187,Product quality is excellent.,31,Male,Pune,Smartwatch,Quarterly,45,14,2,0,0.5719,positive,0
+CUST0188,Love the loyalty rewards feature.,52,Male,Mumbai,TV,Quarterly,22,6,3,1,0.8957,positive,0
+CUST0189,I faced issues with login and payment.,61,Male,Pune,Router,Annual,45,13,5,1,0.0,neutral,0
+CUST0190,Highly reliable and easy to use.,24,Male,Delhi,Smartwatch,Monthly,18,5,5,1,0.4877,positive,2
+CUST0191,The customer support was helpful and responsive.,31,Other,Mumbai,Internet,Annual,42,9,2,1,0.7906,positive,0
+CUST0192,I love the new update!,56,Female,Hyderabad,Tablet,Annual,21,13,2,1,0.6696,positive,0
+CUST0193,I faced issues with login and payment.,52,Other,Delhi,Laptop,Annual,8,3,5,1,0.0,neutral,2
+CUST0194,The subscription is too expensive.,51,Female,Mumbai,Mobile,Annual,40,8,2,1,0.0,neutral,1
+CUST0195,I had a bad experience with support.,64,Other,Pune,TV,Monthly,45,0,2,1,-0.2023,negative,1
+CUST0196,The app is buggy and slow.,45,Female,Delhi,Laptop,Annual,27,13,4,0,0.0,neutral,0
+CUST0197,Super smooth user experience.,27,Male,Delhi,Router,Monthly,23,8,3,1,0.5994,positive,0
+CUST0198,Super smooth user experience.,56,Other,Mumbai,Tablet,Annual,34,8,1,1,0.5994,positive,0
+CUST0199,Very satisfied with my purchase.,40,Male,Hyderabad,Laptop,Monthly,15,6,3,0,0.4754,positive,2
+CUST0200,Support team didn’t respond at all.,59,Male,Mumbai,Router,Quarterly,14,7,4,0,0.4019,positive,2
