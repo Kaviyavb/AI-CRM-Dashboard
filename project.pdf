@@ -1,0 +1,139 @@
+🧾 AI-Powered CRM Analytics Dashboard – Project Report
+📌 Project Title:
+AI-Powered CRM Analytics Dashboard with Sentiment Analysis and Churn Prediction
+
+👩‍💼 Objective:
+To analyze customer feedback data using Natural Language Processing (NLP) and Machine Learning to:
+
+Predict customer churn
+
+Perform sentiment analysis
+
+Generate actionable insights
+
+Present results in an interactive dashboard
+
+🧠 Key Features:
+Sentiment Analysis using VADER
+
+Churn prediction using Logistic Regression
+
+Data clustering using KMeans
+
+AI-generated metrics like average sentiment score, churn rate
+
+Dashboard in Plotly (Google Colab) and optional Power BI
+
+🧪 Workflow
+1️⃣ Dataset
+A dummy CRM feedback dataset was used with the following fields:
+
+customer_id
+
+feedback_text
+
+churned (1 if customer left, 0 otherwise)
+
+2️⃣ Preprocessing
+Cleaned the text (lowercase, punctuation removal, etc.)
+
+Applied VADER Sentiment Analysis → outputs:
+
+compound score
+
+sentiment_label (positive/neutral/negative)
+
+Encoded churn label (0 or 1)
+
+3️⃣ Churn Prediction
+Used Logistic Regression on:
+
+VADER compound score
+
+Evaluated accuracy, confusion matrix
+
+4️⃣ Clustering (Customer Segmentation)
+Features: churn label, sentiment score
+
+Applied KMeans clustering (n=3) to group customers
+
+Assigned cluster label to each customer
+
+5️⃣ Final Output CSV
+Saved final CSV:
+📄 enhanced_customer_feedback.csv
+Includes:
+
+Original feedback
+
+Sentiment analysis results
+
+Predicted churn
+
+Assigned customer cluster
+
+6️⃣ Visualization (Google Colab Plotly)
+Generated dynamic dashboard showing:
+
+Metric	Value
+Total Customers	200
+Churned Customers	103
+Avg. Sentiment Score	0.20
+
+📊 Visuals Included:
+Pie chart of Sentiment Distribution
+
+Histogram of Sentiment Scores
+
+Bar chart of Churn vs. Sentiment
+
+Scatter plot of Clusters
+
+📈 Optional: Power BI Dashboard
+Can be created using exported CSV:
+
+Cluster-wise customer count
+
+Sentiment vs. Churn slicers
+
+TreeMap of feedback length
+
+Churn prediction filters
+
+🧑‍💻 Tools Used
+Tool	Purpose
+Google Colab	Development & Modeling
+NLTK + VADER	Sentiment Analysis
+Scikit-learn	Machine Learning (Churn + Clusters)
+Plotly	Visualization
+Git + GitHub	Version control + Publishing
+(Optional) Power BI	Dashboarding
+
+📂 Files
+Filename	Description
+crm_data.csv	Original dummy dataset
+enhanced_customer_feedback.csv	Final processed dataset
+app.py	Python script for dashboard (local)
+README.md	GitHub project description
+
+✅ Outcomes
+Demonstrated AI-powered CRM analysis
+
+Able to identify patterns of churn via sentiment
+
+Useful for businesses to retain customers proactively
+
+Entire project is reproducible and can be expanded
+
+📎 GitHub Upload Instructions
+Go to GitHub → Create repo
+
+In local folder:
+
+bash
+Copy code
+git init
+git remote add origin https://github.com/username/AI-CRM-Dashboard.git
+git add .
+git commit -m "Initial Commit"
+git push -u origin main
